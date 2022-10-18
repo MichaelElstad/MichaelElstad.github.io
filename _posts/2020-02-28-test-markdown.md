@@ -8,13 +8,24 @@ tags: [test]
 comments: true
 ---
 
+**Sam Carter has 10 years of robotics experience at the age of 20**
+
+Sam started his robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad's low income community.
+He has been their mentor for 8 years, working with team and accompanying them to competition.
+
+Sam learned spanish while working with students, adults, and colleges in Southern California.
+
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
+**Sam Values his and your time**
 
-## Here is a secondary heading
+## 760 421 1251 is the fastest way to reach me
+## SamuelPatrickCarter@gmail.com is the most reliable way to reach me
 
-Here's a useless table:
+
+<!---
+
+Paste your text here :)Here's a useless table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -76,3 +87,5 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+-->
