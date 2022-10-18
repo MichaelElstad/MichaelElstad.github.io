@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sam's Robots
-subtitle: Each post also has a subtitle
+subtitle: Growth
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
