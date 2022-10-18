@@ -15,15 +15,15 @@ He has been their mentor for 8 years, working with team and accompanying them to
 
 Sam learned spanish while working with students, adults, and colleges in Southern California.
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Sam Values his and your time**
+**Sam Values Time**
 
 ## 760 421 1251 is the fastest way to reach me
 ## SamuelPatrickCarter@gmail.com is the most reliable way to reach me
 
 
 <!---
+
+This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 Paste your text here :)Here's a useless table:
 
