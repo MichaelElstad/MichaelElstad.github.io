@@ -2,22 +2,21 @@
 layout: post
 title: Sam's Robots
 subtitle: Growth
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Timeless lessons]
 comments: true
 ---
 
 **Sam Carter has 10 years of robotics experience at the age of 20**
 
-Sam started his robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad's low income community.
-He has been their mentor for 8 years, working with team and accompanying them to competition.
+Sam started his robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
+He has been their mentor for 8 years, building robots and meeting great people.
 
 Sam learned spanish while working with students, adults, and colleges in Southern California.
 
 **Sam Values Time**
 
-## 760 421 1251 is the fastest way to reach me
+## 760-421-1251 is the fastest way to reach me
+PST Workhours preferred.
 ## SamuelPatrickCarter@gmail.com is the most reliable way to reach me
 
 
