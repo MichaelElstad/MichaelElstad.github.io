@@ -22,7 +22,7 @@ author: Sam Carter
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - ROS Documentation: "https://samuelpcarter.github.io"
+    - ROS Documentation: "https://docs.ros.org/"
     - Personal Github: "https://github.com/samuelpcarter"
   Resume/ CV: "https://deanattali.com"
 
