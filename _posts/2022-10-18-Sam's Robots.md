@@ -2,7 +2,7 @@
 layout: post
 title: Sam's Robots
 subtitle: Growth
-tags: [Timeless lessons]
+tags: [Time]
 comments: true
 ---
 
