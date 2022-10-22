@@ -2,7 +2,7 @@
 layout: post
 title: ShadeHikes
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/My Project(1).png
+thumbnail-img: /assets/img/My project(1).png
 share-img: /assets/img/Robot.png
 tags: [Resolution]
 ---
