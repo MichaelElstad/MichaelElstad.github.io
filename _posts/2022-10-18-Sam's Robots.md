@@ -11,12 +11,10 @@ comments: true
 Sam started his robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
 He has been their mentor for 8 years, building robots and meeting great people.
 
-Sam learned spanish while working with students, adults, and colleges in Southern California.
-
-**Sam Values Time**
+Sam learned spanish while working with students, adults, and colleague in San Diego.
 
 ## 760-421-1251 is the fastest way to reach me
-PST Workhours preferred.
+
 ## SamuelPatrickCarter@gmail.com is the most reliable way to reach me
 
 
