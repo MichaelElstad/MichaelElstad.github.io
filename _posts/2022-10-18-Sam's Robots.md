@@ -2,6 +2,7 @@
 layout: post
 title: Sam's Robots
 subtitle: Growth
+thumbnail-img: /assets/img/My project(1).png
 tags: [Time]
 comments: true
 ---
@@ -10,6 +11,8 @@ comments: true
 
 Sam started his robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
 He has been their mentor for 8 years, building robots and meeting great people.
+
+![My Hike](/assets/img/My project(1).png "Image")
 
 Sam learned spanish while working with students, adults, and colleague in San Diego.
 
