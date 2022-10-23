@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - ROS Documentation: "https://docs.ros.org/"
     - Personal Github: "https://github.com/samuelpcarter"
-  Resume/ CV: "https://samuelpcarter.github.io/ResumeCV"
+  Resume/ CV: "/assets/img/My project(1).png"
 
 ################
 # --- Logo --- #
