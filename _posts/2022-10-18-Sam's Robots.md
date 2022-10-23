@@ -13,14 +13,6 @@ Sam started his robotics carrer at a title 1 school called Jefferson Elemetary i
 He has been their mentor for 8 years, building robots and meeting great people.
 
 ![Robot](/assets/img/Robot.png "Image")
-
-Sam learned spanish while working with students, adults, and colleague in San Diego.
-
-## 760-421-1251 is the fastest way to reach me
-
-## SamuelPatrickCarter@gmail.com is the most reliable way to reach me
-
-
 <!---
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
