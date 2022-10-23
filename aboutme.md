@@ -21,4 +21,6 @@ I learned spanish while growing my carrer in additive manufacturing.
 
 ## SamuelPatrickCarter@gmail.com is the most reliable way to reach me.
 
+![Unicycle](/assets/img/Robot.png "Image")
+
 
