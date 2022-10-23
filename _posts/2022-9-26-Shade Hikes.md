@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ShadeHikes
-cover-img: /assets/img/My project(3).png
+cover-img: /assets/img/My project(1).png
 thumbnail-img: /assets/img/My project(1).png
 share-img: /assets/img/My project(1).png
 tags: [Resolution]
