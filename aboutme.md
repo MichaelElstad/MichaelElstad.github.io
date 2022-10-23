@@ -10,6 +10,7 @@ My name is Sam Carter. I am:
 2. Determined
 3. Earnest
 
+![Unicycle](/assets/img/My project(1).png "Image")
 
 ### My story
 
