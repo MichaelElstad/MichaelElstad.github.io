@@ -8,7 +8,7 @@ tags: [Resolution]
 ---
 
 The Colorado trail changed my world view and my name. While on trail I was called Shade.
-![My Hike](/assets/img/My project(1).png "Image")
+![My Hike](/assets/img/My project(2).png "Image")
 
 With 90,000 Ft of elevation gain and 500 miles of trail this was my greatest challenge up to this point.
 
