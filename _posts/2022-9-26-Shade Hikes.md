@@ -1,9 +1,7 @@
 ---
 layout: post
 title: ShadeHikes
-cover-img: /assets/img/My project(2).png
 thumbnail-img: /assets/img/My project(2).png
-share-img: /assets/img/My project(2).png
 tags: [Travel]
 ---
 
