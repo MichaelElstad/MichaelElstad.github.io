@@ -7,10 +7,10 @@ tags: [Time]
 comments: true
 ---
 
-**Sam Carter has 10 years of robotics experience at the age of 20**
+**I have 10 years of robotics experience at the age of 20**
 
-Sam started his robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
-He has been their mentor for 8 years, building robots and meeting great people.
+I started my robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
+I have 1500 of logged commuinity service hours as a mentor for Carlsbad Unified School robotics teams.
 
 ![Robot](/assets/img/Robot.png "Image")
 <!---
