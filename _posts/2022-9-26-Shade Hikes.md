@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ShadeHikes
+title: Shade Hikes
 thumbnail-img: /assets/img/My project(2).png
 tags: [Travel]
 ---
