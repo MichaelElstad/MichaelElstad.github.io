@@ -8,7 +8,7 @@ comments: true
 ---
 
 **I have 10 years of robotics experience at the age of 20**
-I know Java and Computer science.
+I know Java and Computer science. Let's build together.
 
 I started my robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
 I have 1500 of logged commuinity service hours as a mentor for Carlsbad Unified School robotics teams.
