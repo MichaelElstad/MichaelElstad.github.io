@@ -8,7 +8,7 @@ comments: true
 ---
 
 **I have 10 years of robotics experience at the age of 20**
-I am a FIRST Alumni and Mentor.
+I am a [FIRST](https://www.firstinspires.org/) Alumni and Mentor.
 
 I started my robotics carrer at a title 1 school called Jefferson Elemetary in the heart of Carlsbad.
 I have 1500 of logged commuinity service hours as a mentor for Carlsbad Unified School robotics teams.
