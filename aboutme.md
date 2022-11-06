@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Growing up with robots
+subtitle: Michael Elstad
 ---
 
 My name is Michael Elstad. I am:
