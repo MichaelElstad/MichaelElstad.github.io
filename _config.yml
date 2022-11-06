@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Sam's Robots
+title: Michael's Portfolio
 
 # Your name to show in the footer
-author: Sam Carter
+author: Michael Elstad
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - ROS Documentation: "https://docs.ros.org/"
-    - Personal Github: "https://github.com/samuelpcarter"
+    - Personal Github: "https://github.com/MichaelElstad"
   Resume/ CV: "/assets/SamuelPatrickCarter.pdf"
 
 ################
@@ -49,11 +49,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "SamuelPatrickCarter@gmail.com"
+  email: "coughingkidco@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: SamuelPCarter
-  twitter: SamuelPCarter
-  linkedin: SamuelPatrickCarter
+  github: MichaelElstad
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
